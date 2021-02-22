@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/web-theshop-deploy/static/css/main.71e1008a.chunk.css",
-    "main.js": "/web-theshop-deploy/static/js/main.29d55255.chunk.js",
-    "main.js.map": "/web-theshop-deploy/static/js/main.29d55255.chunk.js.map",
+    "main.js": "/web-theshop-deploy/static/js/main.c0e15025.chunk.js",
+    "main.js.map": "/web-theshop-deploy/static/js/main.c0e15025.chunk.js.map",
     "runtime-main.js": "/web-theshop-deploy/static/js/runtime-main.20463364.js",
     "runtime-main.js.map": "/web-theshop-deploy/static/js/runtime-main.20463364.js.map",
     "static/css/2.71614c6c.chunk.css": "/web-theshop-deploy/static/css/2.71614c6c.chunk.css",
-    "static/js/2.ad6b71ca.chunk.js": "/web-theshop-deploy/static/js/2.ad6b71ca.chunk.js",
-    "static/js/2.ad6b71ca.chunk.js.map": "/web-theshop-deploy/static/js/2.ad6b71ca.chunk.js.map",
+    "static/js/2.2feac394.chunk.js": "/web-theshop-deploy/static/js/2.2feac394.chunk.js",
+    "static/js/2.2feac394.chunk.js.map": "/web-theshop-deploy/static/js/2.2feac394.chunk.js.map",
     "index.html": "/web-theshop-deploy/index.html",
     "static/css/2.71614c6c.chunk.css.map": "/web-theshop-deploy/static/css/2.71614c6c.chunk.css.map",
     "static/css/main.71e1008a.chunk.css.map": "/web-theshop-deploy/static/css/main.71e1008a.chunk.css.map",
-    "static/js/2.ad6b71ca.chunk.js.LICENSE.txt": "/web-theshop-deploy/static/js/2.ad6b71ca.chunk.js.LICENSE.txt"
+    "static/js/2.2feac394.chunk.js.LICENSE.txt": "/web-theshop-deploy/static/js/2.2feac394.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20463364.js",
     "static/css/2.71614c6c.chunk.css",
-    "static/js/2.ad6b71ca.chunk.js",
+    "static/js/2.2feac394.chunk.js",
     "static/css/main.71e1008a.chunk.css",
-    "static/js/main.29d55255.chunk.js"
+    "static/js/main.c0e15025.chunk.js"
   ]
 }
