@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/levafedorov/web-theshop-deploy/static/css/main.d492882c.chunk.css",
+    "main.js": "/levafedorov/web-theshop-deploy/static/js/main.57b59a60.chunk.js",
+    "main.js.map": "/levafedorov/web-theshop-deploy/static/js/main.57b59a60.chunk.js.map",
+    "runtime-main.js": "/levafedorov/web-theshop-deploy/static/js/runtime-main.cf4597d8.js",
+    "runtime-main.js.map": "/levafedorov/web-theshop-deploy/static/js/runtime-main.cf4597d8.js.map",
+    "static/css/2.71614c6c.chunk.css": "/levafedorov/web-theshop-deploy/static/css/2.71614c6c.chunk.css",
+    "static/js/2.9294c837.chunk.js": "/levafedorov/web-theshop-deploy/static/js/2.9294c837.chunk.js",
+    "static/js/2.9294c837.chunk.js.map": "/levafedorov/web-theshop-deploy/static/js/2.9294c837.chunk.js.map",
+    "index.html": "/levafedorov/web-theshop-deploy/index.html",
+    "static/css/2.71614c6c.chunk.css.map": "/levafedorov/web-theshop-deploy/static/css/2.71614c6c.chunk.css.map",
+    "static/css/main.d492882c.chunk.css.map": "/levafedorov/web-theshop-deploy/static/css/main.d492882c.chunk.css.map",
+    "static/js/2.9294c837.chunk.js.LICENSE.txt": "/levafedorov/web-theshop-deploy/static/js/2.9294c837.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf4597d8.js",
+    "static/css/2.71614c6c.chunk.css",
+    "static/js/2.9294c837.chunk.js",
+    "static/css/main.d492882c.chunk.css",
+    "static/js/main.57b59a60.chunk.js"
+  ]
+}
