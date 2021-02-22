@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web-theshop-deploy/static/css/main.d492882c.chunk.css",
+    "main.css": "/web-theshop-deploy/static/css/main.71e1008a.chunk.css",
     "main.js": "/web-theshop-deploy/static/js/main.b3c011c9.chunk.js",
     "main.js.map": "/web-theshop-deploy/static/js/main.b3c011c9.chunk.js.map",
     "runtime-main.js": "/web-theshop-deploy/static/js/runtime-main.20463364.js",
@@ -10,14 +10,14 @@
     "static/js/2.ad6b71ca.chunk.js.map": "/web-theshop-deploy/static/js/2.ad6b71ca.chunk.js.map",
     "index.html": "/web-theshop-deploy/index.html",
     "static/css/2.71614c6c.chunk.css.map": "/web-theshop-deploy/static/css/2.71614c6c.chunk.css.map",
-    "static/css/main.d492882c.chunk.css.map": "/web-theshop-deploy/static/css/main.d492882c.chunk.css.map",
+    "static/css/main.71e1008a.chunk.css.map": "/web-theshop-deploy/static/css/main.71e1008a.chunk.css.map",
     "static/js/2.ad6b71ca.chunk.js.LICENSE.txt": "/web-theshop-deploy/static/js/2.ad6b71ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20463364.js",
     "static/css/2.71614c6c.chunk.css",
     "static/js/2.ad6b71ca.chunk.js",
-    "static/css/main.d492882c.chunk.css",
+    "static/css/main.71e1008a.chunk.css",
     "static/js/main.b3c011c9.chunk.js"
   ]
 }
